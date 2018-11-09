@@ -1,2 +1,2 @@
-FROM anyyyy/new_test
+FROM hanlovely/test
 COPY ./ /usr
